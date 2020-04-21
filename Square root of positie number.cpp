@@ -11,6 +11,7 @@ int main()
 	for(i=1;i<=5;i++)
 	{
 	
+	
 	r=num/guess;
 	guess=(guess+r)/2;
 		

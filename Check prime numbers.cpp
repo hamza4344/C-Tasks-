@@ -16,7 +16,7 @@ int main()
 	}
 	if(rem++==2)
 	{
-		cout<<"NUMBER IS PRIME.";
+	     cout<<"NUMBER IS PRIME.";
 	}
 	else
 	{

@@ -18,7 +18,7 @@ int main()
  cin>>grow_b;
   while(town_a<town_b)
   {
-  	;
+  	
   	town_a=(town_a)+((town_a*grow_a)/100);
  town_b=(town_b)+((town_b*grow_b)/100);
  i++;

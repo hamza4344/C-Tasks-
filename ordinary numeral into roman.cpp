@@ -16,7 +16,7 @@ int main()
 	{
 	cout<<"DO YOU WANT TO CONTINUE (YES=Y , NO=N) :";
 	cin>>ans;
-	
+		
 	
 	while(ans=='Y')
 	{

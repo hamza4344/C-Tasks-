@@ -12,8 +12,7 @@ int main()
 	while(third<200)
 	{
 
-			
-	third=second+first;
+        third=second+first;
 
 	first=second;
 	second=third;

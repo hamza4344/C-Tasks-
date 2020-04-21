@@ -17,7 +17,7 @@ int main()
 	second=green_curd;
 	third=second+first;
 	
-	for(day=1;day<=num_days;day++)
+        for(day=1;day<=num_days;day++)
 	{
 	    if(day%5==0)
 	{

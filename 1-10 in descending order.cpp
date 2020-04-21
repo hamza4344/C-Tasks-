@@ -7,7 +7,7 @@ int main()
 	cout<<"DESCENDIGN ORDER FOR 1-10 :";
 	for(i=10;i>0;i--)
 	{
-		cout<<i<<",";
+	cout<<i<<",";
 	}
    return(0);	
 }

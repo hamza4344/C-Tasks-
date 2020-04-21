@@ -16,6 +16,5 @@ int main()
 	i=i*10;	
 	}
 	cout<<"BINARY EQUIVALENT = "<<binary;
-
-	return(0);
+        return(0);
 }

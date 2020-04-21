@@ -16,6 +16,7 @@ int main()
 
 	cout<<"Total point possible for exercise "<<i<<":";
 	cin>>marks;
+		
 
 	total_exer=total_exer+exer;
 	total_marks=total_marks+marks;

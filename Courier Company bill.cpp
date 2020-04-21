@@ -14,7 +14,7 @@ amount=0;
 for(i=1;i<=weight;i++)
 {
 	
-	amount=amount+2;
+amount=amount+2;
 }
 if(ans=='W')
 {
